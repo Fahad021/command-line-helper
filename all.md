@@ -1,4 +1,4 @@
-##Linux/Mac OSX
+#Linux/Mac OSX
 
 pwd print working directory
 hostname my computer’s network name
@@ -25,7 +25,7 @@ sudo DANGER! become super user root DANGER!
 chmod change permission modifiers
 chown change ownership
 
-##Windows
+#Windows
 If you’re using Windows then here’s your list of commands:
 pwd print working directory
 hostname my computer’s network name
