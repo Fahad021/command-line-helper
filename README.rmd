@@ -44,3 +44,11 @@ forfiles run a command on lots of files
 dir /r find files
 select-string find things inside files
 help read a manual page
+helpctr find what man page is appropriate
+echo print some arguments
+set export/set a new environment variable
+exit exit the shell
+runas DANGER! become super user root DANGER!
+attrib change permission modifiers
+iCACLS change ownership
+
